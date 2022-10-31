@@ -1,0 +1,15 @@
+D:\Git Repo\patterns\csharp\bin\Debug\net6.0\csharp.exe
+D:\Git Repo\patterns\csharp\bin\Debug\net6.0\csharp.deps.json
+D:\Git Repo\patterns\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+D:\Git Repo\patterns\csharp\bin\Debug\net6.0\csharp.dll
+D:\Git Repo\patterns\csharp\bin\Debug\net6.0\csharp.pdb
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.dll
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\refint\csharp.dll
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.pdb
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+D:\Git Repo\patterns\csharp\obj\Debug\net6.0\ref\csharp.dll
